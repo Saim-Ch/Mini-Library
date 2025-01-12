@@ -7,7 +7,7 @@ Mini-Library Project in java GUI using Swing Library
 
 ## Overview
 A simple Java-based library management system with a graphical user interface (GUI) for adding and displaying books.
-##Features
+## Features
 * Add books with title, author, year published, and availability
 * Display list of added books
 * User-friendly GUI for easy interaction
